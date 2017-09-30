@@ -4,6 +4,8 @@ This is a list of places that we, Budapest-based Rubyists could personally recom
 
 NOTE: The aim of this list is to keep it local and mainly focus on places that may not be in the typical Budapest tour guides.
 
+__Also, if you are opening a PR, please send me a notification tweet at @attilagyorffy so that I won't have to watch github all the time.__
+
 ## Belvárosi Disznótoros
 [Map](https://www.google.hu/maps/place/Belv%C3%A1rosi+Diszn%C3%B3toros/@47.4947739,19.0527113,16z/data=!4m8!1m2!2m1!1sBelv%C3%A1rosi+Diszn%C3%B3toros!3m4!1s0x4741dc44f36eeb69:0xdd94e239fc3817db!8m2!3d47.491504!4d19.0578058)
 My go-to spot to have a nice lunch with the taste of Hungarian dishes. Sausages, local grilled meat with different flavours. Paprika. Mmmm-mm paprika. And pickles. Pickles are great too.
