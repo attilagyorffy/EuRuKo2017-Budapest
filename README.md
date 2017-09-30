@@ -26,3 +26,7 @@ Bar on the riverbank with beer and cocktails. Seats on the riverside with a view
 ## Central Market Hall
 [Map](https://www.google.hu/maps/place/Nagy+V%C3%A1s%C3%A1rcsarnok/@47.4870848,19.0563043,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!8m2!3d47.4870848!4d19.058493)
 Lots of quality vedgies and fresh meat to chose from, sold by farmers. If you are into souvenirs, this may be your spot too.
+
+## 360 Bar
+[Map](https://www.google.hu/maps/place/360+Bar/@47.5037177,19.0592999,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dc6c2200db75:0x6be15de012372e28!8m2!3d47.5037177!4d19.0614886)
+Rooftop bar overlooking the city from above. Nice cocktails and some good beer around. This time of the year, you should probably get a jacket, it may be a tiny bit windy but the view is absolute fantastic.
