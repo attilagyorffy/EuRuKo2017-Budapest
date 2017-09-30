@@ -1,4 +1,4 @@
-# EuRuKo 2017 Recommendations from a Budapest native
+# EuRuKo 2017 Recommendations from Budapest natives
 
 This is a list of places that we, Budapest-based Rubyists could personally recommend as our go-to spots in the city. If you are also a local and think you could add to the list, maybe consider a PR os that we can share our favourite places with the Ruby community.
 
