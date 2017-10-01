@@ -32,3 +32,8 @@ Lots of quality vedgies and fresh meat to chose from, sold by farmers. If you ar
 ## 360 Bar
 [Map](https://www.google.hu/maps/place/360+Bar/@47.5037177,19.0592999,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dc6c2200db75:0x6be15de012372e28!8m2!3d47.5037177!4d19.0614886)
 Rooftop bar overlooking the city from above. Nice cocktails and some good beer around. This time of the year, you should probably get a jacket, it may be a tiny bit windy but the view is absolute fantastic.
+
+## Menza Restaurant
+[Map](https://www.google.hu/maps/place/Menza+%C3%89tterem+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.5039639,19.0606278,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dc6e9b62d4d5:0x361daa1bec9740fe!8m2!3d47.5039639!4d19.0628165)
+60s and 70s style decor without the disco beats. Traditional food near Oktogon but with relatively reasonable prices.
+
