@@ -37,3 +37,6 @@ Rooftop bar overlooking the city from above. Nice cocktails and some good beer a
 [Map](https://www.google.hu/maps/place/Menza+%C3%89tterem+%C3%A9s+K%C3%A1v%C3%A9z%C3%B3/@47.5039639,19.0606278,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dc6e9b62d4d5:0x361daa1bec9740fe!8m2!3d47.5039639!4d19.0628165)
 60s and 70s style decor without the disco beats. Traditional food near Oktogon but with relatively reasonable prices.
 
+## Trófea Grill
+[Map](https://www.google.hu/maps/place/Tr%C3%B3fea+Grill+%C3%89tterem/@47.517387,19.0918612,17z/data=!3m1!4b1!4m5!3m4!1s0x4741db78aae573d9:0xde1c37358b5fd859!8m2!3d47.517387!4d19.09405)
+Buffet style restaurant, all-you-can-eat for a fixed price. If you are thinking of trying out a variety of Hungarian food, this is a good place to start. It may get a bit noisy at times but it's good value for the price nevertheless.
